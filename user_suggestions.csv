@@ -1,7 +1,16 @@
-Email,Name,Category,Protein,Carbs,Sugar,Fats,Vitamins,Minerals
-dasschelsea@gmail.com,pasta,Carb,24,80,0,0,2,1
-dasschelsea@gmail.com,vegan pasta,Carb,0,6,0,0,1,2
-dasschelsea@gmail.com,pasta,Carb,4,7,0,0,1,2
-dasschelsea@gmail.com,pasta,Carb,0,5,0,0,1,2
-dasschelsea@gmail.com,pasta,Carb,3,5,3,5,1,2
-,,Protein,0,0,0,0,0,0
+Email,Name,Category,Protein,Carbs,Sugar,Fats,Vitamins,Minerals,Timestamp
+dasschelsea@gmail.com,pasta,Carb,24,80,0,0,2,1,
+dasschelsea@gmail.com,vegan pasta,Carb,0,6,0,0,1,2,
+dasschelsea@gmail.com,pasta,Carb,4,7,0,0,1,2,
+dasschelsea@gmail.com,pasta,Carb,0,5,0,0,1,2,
+dasschelsea@gmail.com,pasta,Carb,3,5,3,5,1,2,
+,,Protein,0,0,0,0,0,0,
+dasschelsea@gmail.com,Vegan Pasta,Protein,0,7,6,5,1,1,
+dasschelsea@gmail.com,Vegan Pasta,Protein,0,7,6,5,1,1,
+dasschelsea@gmail.com,vegan pasta,Ready Meal,5,7,10,7,1,2,
+dasschelsea@gmail.com,pasta,Protein,3,2,2,5,4,2,
+dasschelsea@gmail.com,pasta,Protein,0,2,2,0,2,2,
+dasschelsea@gmail.com,pasta,Carb,2,2,0,0,3,3,
+dasschelsea@gmail.com,pasta,Protein,0,2,0,0,3,0,
+dasschelsea@gmail.com,pasta,Protein,3,2,0,0,3,3,2025-09-25 18:22:06
+dasschelsea@gmail.com,Vegan meat,Protein,60,20,10,30,1,1,2025-09-25 21:49:14
