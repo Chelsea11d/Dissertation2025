@@ -2,7 +2,7 @@
 
 A multi-page Streamlit application for personalised vegan nutrition tracking, product recommendations, and analytics — built as part of an MSc Data Science and AI dissertation.
 
-**🔗 Live demo:** _[add your Streamlit Cloud link here once deployed]_
+**🔗 Live demo:** https://dissertation2025-n3j2wmsqczm8nqnxubxrnv.streamlit.app/
 
 ## Features
 
